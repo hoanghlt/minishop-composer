@@ -143,6 +143,9 @@ Phone: +84-914-118-896
 
 # License
 
+Demo: https://minishop.website/
+Video: https://youtu.be/O1UGBoUi6eU
+
 GNU Public 3.0
 
 ---
